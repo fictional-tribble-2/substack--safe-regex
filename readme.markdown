@@ -13,7 +13,7 @@ exponential-time cases.
 
 [![browser support](https://ci.testling.com/substack/safe-regex.png)](https://ci.testling.com/substack/safe-regex)
 
-[![build status](https://secure.travis-ci.org/substack/safe-regex.png)](http://travis-ci.org/substack/safe-regex) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/substack--safe-regex.svg)](https://www.staging.guardrails.io)
+[![build status](https://secure.travis-ci.org/substack/safe-regex.png)](http://travis-ci.org/substack/safe-regex) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/substack--safe-regex.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/substack--safe-regex.svg)](https://www.guardrails.io)
 
 # example
 
